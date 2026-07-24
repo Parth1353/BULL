@@ -2,16 +2,10 @@ services:
   - type: web
     name: bull-ai-research
     env: node
-    plan: starter
+    plan: free
     buildCommand: npm install -g pnpm && pnpm install --frozen-lockfile && pnpm build
     startCommand: pnpm start
-    disk:
-      name: bull-storage
-      mountPath: /var/data
-      sizeGB: 1
     envVars:
-      - key: STORAGE_ROOT
-        value: /var/data
       - key: PORT
         value: 3000
       - key: GEMINI_API_KEY
