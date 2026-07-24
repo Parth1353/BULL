@@ -3,8 +3,8 @@ services:
     name: bull-ai-research
     env: node
     plan: free
-    buildCommand: corepack enable pnpm && pnpm install --frozen-lockfile && pnpm build
-    startCommand: corepack enable pnpm && pnpm start
+    buildCommand: npx -y pnpm@9.15.9 install --frozen-lockfile && npx -y pnpm@9.15.9 build
+    startCommand: npx -y pnpm@9.15.9 start
     envVars:
       - key: PORT
         value: 3000
