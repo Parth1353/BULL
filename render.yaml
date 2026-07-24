@@ -9,6 +9,6 @@ services:
       - key: PORT
         value: 3000
       - key: GEMINI_API_KEY
-        sync: false
+        value: ""
       - key: DEMO_MODE
-        value: "false"
+        value: "true"
