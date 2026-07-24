@@ -1,0 +1,43 @@
+{
+  "name": "bull-ai-financial-research",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k \"next dev\" \"pnpm worker\"",
+    "build": "next build",
+    "start": "concurrently -k \"pnpm start:web\" \"pnpm worker\"",
+    "start:web": "next start -H 0.0.0.0 -p ${PORT:-3000}",
+    "worker": "tsx src/worker.ts",
+    "examples": "DEMO_MODE=true tsx scripts/generate-examples.ts",
+    "examples:live": "tsx scripts/generate-live-examples.ts",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@google/genai": "^1.31.0",
+    "@react-pdf/renderer": "^4.3.1",
+    "d3-scale": "^4.0.2",
+    "dotenv": "^16.6.1",
+    "next": "^15.5.2",
+    "pdfjs-dist": "^5.4.149",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/d3-scale": "^4.0.9",
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "concurrently": "^9.2.1",
+    "eslint": "^9.34.0",
+    "eslint-config-next": "^15.5.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
