@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "concurrently -k \"next dev\" \"pnpm worker\"",
     "build": "next build",
-    "start": "concurrently -k \"pnpm start:web\" \"pnpm worker\"",
+    "start": "concurrently -k \"npm run start:web\" \"npm run worker\"",
     "start:web": "next start -H 0.0.0.0 -p ${PORT:-3000}",
     "worker": "tsx src/worker.ts",
     "examples": "DEMO_MODE=true tsx scripts/generate-examples.ts",

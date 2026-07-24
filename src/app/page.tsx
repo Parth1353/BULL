@@ -19,8 +19,22 @@ export default function HomePage() {
   useEffect(() => {
     if (!job || ["completed", "failed"].includes(job.status)) return;
     pollRef.current = window.setInterval(async () => {
-      const response = await fetch(`/api/reports/${job.id}`, { cache: "no-store" });
-      if (response.ok) setJob(await response.json());
+      try {
+        const response = await fetch(`/api/reports/${job.id}`, { cache: "no-store" });
+        if (response.ok) {
+          setJob(await response.json());
+          return;
+        }
+        if (response.status === 404) {
+          // Render's free plan uses ephemeral local storage, so a restart can
+          // remove a queued job while this browser tab is still polling it.
+          setJob(null);
+          setMessage("This report session expired after the server restarted. Please submit the document again.");
+        }
+      } catch {
+        // A deployment wake-up or restart can briefly make the status endpoint
+        // unavailable. Keep polling so a transient outage can recover.
+      }
     }, 900);
     return () => { if (pollRef.current) window.clearInterval(pollRef.current); };
   }, [job?.id, job?.status]);
