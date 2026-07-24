@@ -2,6 +2,7 @@
   "name": "bull-ai-financial-research",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@9.15.9",
   "scripts": {
     "dev": "concurrently -k \"next dev\" \"pnpm worker\"",
     "build": "next build",
