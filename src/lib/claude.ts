@@ -1,4 +1,4 @@
-import { GoogleGenAI } from "@google/genai";
+import Anthropic from "@anthropic-ai/sdk";
 import { config } from "@/lib/config";
 import type { ParsedDocument } from "@/lib/document-parser";
 import { reportSchema, type ResearchReport } from "@/lib/report-schema";
@@ -12,23 +12,34 @@ function prompt(companyName: string, document: ParsedDocument) {
 }
 
 async function callModel(model: string, input: string, apiKey: string) {
-  const client = new GoogleGenAI({ apiKey });
-  const response = await client.models.generateContent({ model, contents: input, config: { responseMimeType: "application/json", temperature: 0.1 } });
-  if (!response.text) throw new Error("Gemini returned an empty response.");
-  return response.text;
+  const client = new Anthropic({ apiKey });
+  const response = await client.messages.create({
+    model,
+    max_tokens: 16384,
+    temperature: 0.1,
+    system: "You are a financial data extraction assistant. You MUST respond with valid JSON only. No prose, no markdown fences, no explanation — just the raw JSON object.",
+    messages: [{ role: "user", content: input }],
+  });
+  const text = response.content[0]?.type === "text" ? response.content[0].text : "";
+  if (!text) throw new Error("Claude returned an empty response.");
+  return text;
+}
+
+async function extractCandidate(model: string, input: string, apiKey: string) {
+  const raw = await callModel(model, input, apiKey);
+  return reportSchema.parse(JSON.parse(stripFence(raw)));
 }
 
 export async function extractReport(companyName: string, document: ParsedDocument): Promise<ResearchReport> {
   if (config.demoMode) return buildDemoReport(companyName);
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) throw new Error("GEMINI_API_KEY is missing. Add it to .env.local or enable DEMO_MODE.");
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) throw new Error("ANTHROPIC_API_KEY is missing. Add it to .env.local or enable DEMO_MODE.");
   const input = prompt(companyName, document);
-  let raw: string;
-  try { raw = await callModel(config.geminiModel, input, apiKey); }
+  let candidate: ResearchReport;
+  try { candidate = await extractCandidate(config.claudeModel, input, apiKey); }
   catch (primaryError) {
-    try { raw = await callModel(config.geminiFallbackModel, input, apiKey); }
-    catch { throw new Error(`Gemini generation failed: ${primaryError instanceof Error ? primaryError.message : "unknown error"}`); }
+    try { candidate = await extractCandidate(config.claudeFallbackModel, input, apiKey); }
+    catch { throw new Error(`Claude generation failed: ${primaryError instanceof Error ? primaryError.message : "unknown error"}`); }
   }
-  const candidate = reportSchema.parse(JSON.parse(stripFence(raw)));
   return reconcileReport(candidate, document.pages);
 }

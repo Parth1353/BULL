@@ -18,11 +18,12 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@google/genai": "^1.31.0",
+    "@anthropic-ai/sdk": "^0.52.0",
     "@react-pdf/renderer": "^4.3.1",
     "concurrently": "^9.2.1",
     "d3-scale": "^4.0.2",
     "dotenv": "^16.6.1",
+    "groq-sdk": "^1.4.0",
     "next": "^15.5.2",
     "pdfjs-dist": "^5.4.149",
     "react": "^19.1.1",

@@ -9,7 +9,7 @@ loadEnv();
 export const config = {
   storageRoot: process.env.STORAGE_ROOT ?? "storage",
   maxUploadBytes: Number(process.env.MAX_UPLOAD_MB ?? "15") * 1024 * 1024,
-  geminiModel: process.env.GEMINI_MODEL ?? "gemini-3.5-flash",
-  geminiFallbackModel: process.env.GEMINI_FALLBACK_MODEL ?? "gemini-3.5-flash-lite",
+  claudeModel: process.env.CLAUDE_MODEL ?? "claude-sonnet-4-20250514",
+  claudeFallbackModel: process.env.CLAUDE_FALLBACK_MODEL ?? "claude-haiku-4-20250514",
   demoMode: process.env.DEMO_MODE === "true",
 };

@@ -2,7 +2,7 @@ import path from "node:path";
 import { mkdir } from "node:fs/promises";
 import { config } from "@/lib/config";
 import { parseDocument } from "@/lib/document-parser";
-import { extractReport } from "@/lib/gemini";
+import { extractReport } from "@/lib/claude";
 import { renderReportToFile } from "@/pdf/report-document";
 
 const examples = [
@@ -12,7 +12,7 @@ const examples = [
 
 async function main() {
   if (config.demoMode) throw new Error("examples:live requires DEMO_MODE=false.");
-  if (!process.env.GEMINI_API_KEY) throw new Error("GEMINI_API_KEY is missing. Add it to .env.local before running examples:live.");
+  if (!process.env.ANTHROPIC_API_KEY) throw new Error("ANTHROPIC_API_KEY is missing. Add it to .env.local before running examples:live.");
   const destination = path.resolve("examples/live");
   await mkdir(destination, { recursive: true });
   for (const example of examples) {

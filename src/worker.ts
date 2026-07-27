@@ -2,7 +2,7 @@ import path from "node:path";
 import { setTimeout as delay } from "node:timers/promises";
 import { claimQueuedJob, completeJob, failJob } from "@/lib/db";
 import { parseDocument } from "@/lib/document-parser";
-import { extractReport } from "@/lib/gemini";
+import { extractReport } from "@/lib/claude";
 import { ensureStorage, reportsDir } from "@/lib/files";
 import { renderReportToFile } from "@/pdf/report-document";
 
