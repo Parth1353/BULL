@@ -1,0 +1,19 @@
+node_modules/
+.next/
+storage/
+output/
+tmp/
+.env.local
+playwright-report/
+test-results/
+*.log
+
+# Local email artefact, not part of the repo
+result/
+result.zip
+
+# Editor local-history snapshots — these mirror .env.local and leak keys
+.history/
+
+# Build artefact
+tsconfig.tsbuildinfo

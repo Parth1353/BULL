@@ -1,0 +1,1802 @@
+{
+  "report": {
+    "companyName": "Pondy Oxides and Chemicals",
+    "sourceFile": "POCL Q2FY26.pdf",
+    "generatedAt": "2026-08-08T06:33:17.432Z",
+    "profile": {
+      "sector": "Recycling",
+      "reportingPeriod": "Q2 FY26",
+      "reportDate": "17th October 2025",
+      "documentType": "Investor Presentation",
+      "headline": "POCL Achieves Highest-Ever Quarterly Revenue and EBITDA in Q2 FY26",
+      "description": {
+        "text": "Pondy Oxides and Chemicals Limited is a leading global recycling company with 30 years of experience, operating in four recycling verticals: lead, plastics, copper, and aluminium. The company adopts responsible and sustainable manufacturing practices to process scraps into high-quality metal and non-metal by-products.",
+        "page": 8,
+        "quote": "30 Years of Experience | 11% - 5 Years Revenue CAGR"
+      },
+      "highlights": [
+        {
+          "text": "Standalone Net Revenue for Q2FY26 grew 11% year-on-year to Rs. 6,345 Million.",
+          "page": 17,
+          "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+        },
+        {
+          "text": "EBITDA for the quarter rose by 84% year-on-year to Rs. 551 Million, with a margin of 8.7%.",
+          "page": 17,
+          "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+        },
+        {
+          "text": "Profit After Tax (PAT) increased by 105% year-on-year to Rs. 356 Million in Q2FY26.",
+          "page": 17,
+          "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+        },
+        {
+          "text": "Lead production for H1FY26 reached 47,408 MT, up from 45,959 MT in the previous year.",
+          "page": 16,
+          "quote": null
+        }
+      ],
+      "keyHighlights": [
+        {
+          "text": "The company reported its highest-ever quarterly and half-yearly revenue, EBITDA, PAT, and margins.",
+          "page": 5,
+          "quote": "POCL has achieved its highest-ever quarterly and half-yearly revenue, EBITDA, PAT, and margins, underpinned by strong operational execution."
+        },
+        {
+          "text": "Phase 1 of the Lead capacity expansion project added 36,000 MTPA in April 2025, with Phase 2 expected to be commissioned in H2 FY26.",
+          "page": 10,
+          "quote": null
+        },
+        {
+          "text": "The company aims for EBITDA margins above 8%, ROCE over 20%, and over 60% of revenue from value-added products.",
+          "page": 5,
+          "quote": "We aim to achieve EBITDA margins above 8%, ROCE over 20%, and generate more than 60% of revenue from value-added products."
+        },
+        {
+          "text": "POCL raised INR 132.5 Crs through a preferential issue and INR 175 crores through a QIP in 2024-2025.",
+          "page": 10,
+          "quote": null
+        },
+        {
+          "text": "The company maintains a strong financial position with a healthy net cash position as of H1FY26.",
+          "page": 5,
+          "quote": "Supported by a clear strategic roadmap, strong financial health with a healthy net cash position, disciplined operations, a favorable regulatory environment"
+        }
+      ],
+      "outlook": {
+        "text": "POCL is focused on its Target 2030 vision, targeting over 15% volume growth and sustaining a revenue CAGR above 20%. Strategic initiatives include exploring Lithium Ion recycling, E-waste, and increasing copper capacity, while commissioning Phase 2 of Lead capacity expansion in the second half of FY26.",
+        "page": 31,
+        "quote": null
+      },
+      "companyData": [
+        {
+          "label": "Market Capitalization (NSE)",
+          "cell": {
+            "value": "INR 4,127.63 Cr.",
+            "page": 40,
+            "quote": "MKT CAP (15-10-25) | INR 4,121.16 Cr. | INR 4,127.63 Cr."
+          }
+        },
+        {
+          "label": "Shares Outstanding",
+          "cell": {
+            "value": "3,05,11,279",
+            "page": 40,
+            "quote": "Total | 3,05,11,279 | 100%"
+          }
+        },
+        {
+          "label": "Listing Codes",
+          "cell": {
+            "value": "NSE: POCL; BSE: 532626",
+            "page": 1,
+            "quote": "BSE Scrip Code : 532626"
+          }
+        },
+        {
+          "label": "Credit Rating",
+          "cell": {
+            "value": "A/ Stable from CRISIL",
+            "page": 8,
+            "quote": "A/ Stable External rating from CRISIL"
+          }
+        },
+        {
+          "label": "Employee Count",
+          "cell": {
+            "value": "500+",
+            "page": 37,
+            "quote": "500+ Employees"
+          }
+        },
+        {
+          "label": "Lead Capacity",
+          "cell": {
+            "value": "1,68,000 MTPA",
+            "page": 11,
+            "quote": "1,68,000 MTPA"
+          }
+        },
+        {
+          "label": "Plastics Capacity",
+          "cell": {
+            "value": "9,000 MTPA",
+            "page": 11,
+            "quote": "Capacity 9,000 MTPA"
+          }
+        },
+        {
+          "label": "Copper Capacity",
+          "cell": {
+            "value": "6,000 MTPA",
+            "page": 11,
+            "quote": "Capacity 6,000 MTPA"
+          }
+        },
+        {
+          "label": "Aluminium Capacity",
+          "cell": {
+            "value": "12,000 MTPA",
+            "page": 11,
+            "quote": "Capacity 12,000 MTPA"
+          }
+        },
+        {
+          "label": "Promoter Holding",
+          "cell": {
+            "value": "39.34%",
+            "page": 40,
+            "quote": "Promoters | 1,20,04,000 | 39.34%"
+          }
+        }
+      ],
+      "shareholdingPeriods": [
+        "30 Sep’2025"
+      ],
+      "shareholding": [
+        {
+          "label": "Promoters",
+          "values": [
+            {
+              "period": "30 Sep’2025",
+              "cell": {
+                "value": "39.34%",
+                "page": 40,
+                "quote": "Promoters | 1,20,04,000 | 39.34%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Public",
+          "values": [
+            {
+              "period": "30 Sep’2025",
+              "cell": {
+                "value": "60.66%",
+                "page": 40,
+                "quote": "Public | 1,85,07,279 | 60.66%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "quarterly": {
+      "unit": "Rs. Million",
+      "currentLabel": "Q2FY26",
+      "priorYearLabel": "Q2FY25",
+      "previousQuarterLabel": "Q1FY26",
+      "rows": [
+        {
+          "metric": "Net Revenue",
+          "current": {
+            "value": "6,345",
+            "page": 17,
+            "quote": "Net Revenue | 6,345"
+          },
+          "priorYear": {
+            "value": "5,724",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "yoy": {
+            "value": "11%",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "previousQuarter": {
+            "value": "5,962",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Other Income",
+          "current": {
+            "value": "15",
+            "page": 17,
+            "quote": "Other Income | 15"
+          },
+          "priorYear": {
+            "value": "10",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "yoy": {
+            "value": "57%",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "previousQuarter": {
+            "value": "18",
+            "page": 17,
+            "quote": "Other Income | 15 | 18 | -13% | 10 | 57% | 33 | 21 | 58%"
+          },
+          "qoq": {
+            "value": "-13%",
+            "page": 17,
+            "quote": "Other Income | 15 | 18 | -13% | 10 | 57% | 33 | 21 | 58%"
+          }
+        },
+        {
+          "metric": "Total Income",
+          "current": {
+            "value": "6,361",
+            "page": 17,
+            "quote": "Total Income | 6,361"
+          },
+          "priorYear": {
+            "value": "5,734",
+            "page": 17,
+            "quote": "Total Income | 6,361 | 5,979 | 6% | 5,734 | 11% | 12,340 | 10,113 | 22%"
+          },
+          "yoy": {
+            "value": "11%",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "previousQuarter": {
+            "value": "5,979",
+            "page": 17,
+            "quote": "Total Income | 6,361 | 5,979 | 6% | 5,734 | 11% | 12,340 | 10,113 | 22%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "COGS",
+          "current": {
+            "value": "5,431",
+            "page": 17,
+            "quote": "COGS | 5,431"
+          },
+          "priorYear": {
+            "value": "5,179",
+            "page": 17,
+            "quote": "COGS | 5,431 | 5,263 | 3% | 5,179 | 5% | 10,694 | 9,087 | 18%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "5,263",
+            "page": 17,
+            "quote": "COGS | 5,431 | 5,263 | 3% | 5,179 | 5% | 10,694 | 9,087 | 18%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Employee Benefit Expenses",
+          "current": {
+            "value": "87",
+            "page": 17,
+            "quote": "Employee Benefit Expenses | 87"
+          },
+          "priorYear": {
+            "value": "56",
+            "page": 17,
+            "quote": "Employee Benefit Expenses | 87 | 73 | 19% | 56 | 57% | 160 | 117 | 37%"
+          },
+          "yoy": {
+            "value": "57%",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "previousQuarter": {
+            "value": "73",
+            "page": 17,
+            "quote": "Total Income | 6,361 | 5,979 | 6% | 5,734 | 11% | 12,340 | 10,113 | 22%"
+          },
+          "qoq": {
+            "value": "19%",
+            "page": 17,
+            "quote": "Employee Benefit Expenses | 87 | 73 | 19% | 56 | 57% | 160 | 117 | 37%"
+          }
+        },
+        {
+          "metric": "Other Expenses",
+          "current": {
+            "value": "292",
+            "page": 17,
+            "quote": "Other Expenses | 292"
+          },
+          "priorYear": {
+            "value": "200",
+            "page": 17,
+            "quote": "Other Expenses | 292 | 213 | 37% | 200 | 46% | 505 | 373 | 35%"
+          },
+          "yoy": {
+            "value": "46%",
+            "page": 17,
+            "quote": "Other Expenses | 292 | 213 | 37% | 200 | 46% | 505 | 373 | 35%"
+          },
+          "previousQuarter": {
+            "value": "213",
+            "page": 17,
+            "quote": "Other Expenses | 292 | 213 | 37% | 200 | 46% | 505 | 373 | 35%"
+          },
+          "qoq": {
+            "value": "37%",
+            "page": 17,
+            "quote": "Employee Benefit Expenses | 87 | 73 | 19% | 56 | 57% | 160 | 117 | 37%"
+          }
+        },
+        {
+          "metric": "Total Expenses",
+          "current": {
+            "value": "5,810",
+            "page": 17,
+            "quote": "Total Expenses | 5,810"
+          },
+          "priorYear": {
+            "value": "5,435",
+            "page": 17,
+            "quote": "Total Expenses | 5,810 | 5,549 | 5% | 5,435 | 7% | 11,359 | 9,576 | 19%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "5,549",
+            "page": 17,
+            "quote": "Total Expenses | 5,810 | 5,549 | 5% | 5,435 | 7% | 11,359 | 9,576 | 19%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "EBITDA",
+          "current": {
+            "value": "551",
+            "page": 17,
+            "quote": "EBITDA | 551"
+          },
+          "priorYear": {
+            "value": "300",
+            "page": 17,
+            "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+          },
+          "yoy": {
+            "value": "84%",
+            "page": 17,
+            "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+          },
+          "previousQuarter": {
+            "value": "431",
+            "page": 17,
+            "quote": "COGS | 5,431 | 5,263 | 3% | 5,179 | 5% | 10,694 | 9,087 | 18%"
+          },
+          "qoq": {
+            "value": "28%",
+            "page": 17,
+            "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+          }
+        },
+        {
+          "metric": "EBITDA Margin %",
+          "current": {
+            "value": "8.7%",
+            "page": 17,
+            "quote": "EBITDA Margin % | 8.7%"
+          },
+          "priorYear": {
+            "value": "5.2%",
+            "page": 17,
+            "quote": "EBITDA Margin % | 8.7% | 7.2% | 5.2% | 8.0% | 5.3%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "7.2%",
+            "page": 17,
+            "quote": "EBITDA Margin % | 8.7% | 7.2% | 5.2% | 8.0% | 5.3%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Depreciation",
+          "current": {
+            "value": "58",
+            "page": 17,
+            "quote": "Depreciation | 58"
+          },
+          "priorYear": {
+            "value": "27",
+            "page": 17,
+            "quote": "Depreciation | 58 | 35 | 66% | 27 | 117% | 93 | 49 | 90%"
+          },
+          "yoy": {
+            "value": "117%",
+            "page": 17,
+            "quote": "Employee Benefit Expenses | 87 | 73 | 19% | 56 | 57% | 160 | 117 | 37%"
+          },
+          "previousQuarter": {
+            "value": "35",
+            "page": 17,
+            "quote": "Other Expenses | 292 | 213 | 37% | 200 | 46% | 505 | 373 | 35%"
+          },
+          "qoq": {
+            "value": "66%",
+            "page": 17,
+            "quote": "Depreciation | 58 | 35 | 66% | 27 | 117% | 93 | 49 | 90%"
+          }
+        },
+        {
+          "metric": "Finance Cost",
+          "current": {
+            "value": "13",
+            "page": 17,
+            "quote": "Finance Cost | 13"
+          },
+          "priorYear": {
+            "value": "39",
+            "page": 17,
+            "quote": "Finance Cost | 13 | 30 | -55% | 39 | -66% | 43 | 62 | -30%"
+          },
+          "yoy": {
+            "value": "-66%",
+            "page": 17,
+            "quote": "Depreciation | 58 | 35 | 66% | 27 | 117% | 93 | 49 | 90%"
+          },
+          "previousQuarter": {
+            "value": "30",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "qoq": {
+            "value": "-55%",
+            "page": 17,
+            "quote": "Total Expenses | 5,810 | 5,549 | 5% | 5,435 | 7% | 11,359 | 9,576 | 19%"
+          }
+        },
+        {
+          "metric": "PBT",
+          "current": {
+            "value": "479",
+            "page": 17,
+            "quote": "PBT | 479 | 366 | 31% | 233 | 105% | 845 | 426 | 98%"
+          },
+          "priorYear": {
+            "value": "233",
+            "page": 17,
+            "quote": "PBT | 479 | 366 | 31% | 233 | 105% | 845 | 426 | 98%"
+          },
+          "yoy": {
+            "value": "105%",
+            "page": 17,
+            "quote": "PBT | 479 | 366 | 31% | 233 | 105% | 845 | 426 | 98%"
+          },
+          "previousQuarter": {
+            "value": "366",
+            "page": 17,
+            "quote": "PBT | 479 | 366 | 31% | 233 | 105% | 845 | 426 | 98%"
+          },
+          "qoq": {
+            "value": "31%",
+            "page": 17,
+            "quote": "COGS | 5,431 | 5,263 | 3% | 5,179 | 5% | 10,694 | 9,087 | 18%"
+          }
+        },
+        {
+          "metric": "Tax Expenses",
+          "current": {
+            "value": "123",
+            "page": 17,
+            "quote": "Tax Expenses | 123"
+          },
+          "priorYear": {
+            "value": "59",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          },
+          "yoy": {
+            "value": "107%",
+            "page": 17,
+            "quote": "Tax Expenses | 123 | 91 | 36% | 59 | 107% | 214 | 107 | 100%"
+          },
+          "previousQuarter": {
+            "value": "91",
+            "page": 17,
+            "quote": "Tax Expenses | 123 | 91 | 36% | 59 | 107% | 214 | 107 | 100%"
+          },
+          "qoq": {
+            "value": "36%",
+            "page": 17,
+            "quote": "Total Income | 6,361 | 5,979 | 6% | 5,734 | 11% | 12,340 | 10,113 | 22%"
+          }
+        },
+        {
+          "metric": "PAT",
+          "current": {
+            "value": "356",
+            "page": 17,
+            "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+          },
+          "priorYear": {
+            "value": "174",
+            "page": 17,
+            "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+          },
+          "yoy": {
+            "value": "105%",
+            "page": 17,
+            "quote": "PBT | 479 | 366 | 31% | 233 | 105% | 845 | 426 | 98%"
+          },
+          "previousQuarter": {
+            "value": "276",
+            "page": 17,
+            "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+          },
+          "qoq": {
+            "value": "29%",
+            "page": 17,
+            "quote": "Other Expenses | 292 | 213 | 37% | 200 | 46% | 505 | 373 | 35%"
+          }
+        },
+        {
+          "metric": "PAT Margin %",
+          "current": {
+            "value": "5.6%",
+            "page": 17,
+            "quote": "PAT Margin % | 5.6%"
+          },
+          "priorYear": {
+            "value": "3.0%",
+            "page": 17,
+            "quote": "PAT Margin % | 5.6% | 4.6% | 3.0% | 5.1% | 3.2%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "4.6%",
+            "page": 17,
+            "quote": "PAT Margin % | 5.6% | 4.6% | 3.0% | 5.1% | 3.2%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "EPS - Diluted (Rs.)",
+          "current": {
+            "value": "11.66",
+            "page": 17,
+            "quote": "EPS - Diluted (Rs.) | 11.66"
+          },
+          "priorYear": {
+            "value": "6.47",
+            "page": 17,
+            "quote": "EPS - Diluted (Rs.) | 11.66 | 9.54 | 22% | 6.47 | 80% | 20.69 | 11.93 | 73%"
+          },
+          "yoy": {
+            "value": "80%",
+            "page": 17,
+            "quote": "EPS - Diluted (Rs.) | 11.66 | 9.54 | 22% | 6.47 | 80% | 20.69 | 11.93 | 73%"
+          },
+          "previousQuarter": {
+            "value": "9.54",
+            "page": 17,
+            "quote": "EPS - Diluted (Rs.) | 11.66 | 9.54 | 22% | 6.47 | 80% | 20.69 | 11.93 | 73%"
+          },
+          "qoq": {
+            "value": "22%",
+            "page": 17,
+            "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+          }
+        }
+      ]
+    },
+    "statements": {
+      "unit": "Rs. Million",
+      "periods": [
+        "FY 2020",
+        "FY 2021",
+        "FY 2022",
+        "FY 2023",
+        "FY 2024",
+        "FY 2025"
+      ],
+      "profitAndLoss": [
+        {
+          "label": "Net Revenue",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "12,199",
+                "page": 38,
+                "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "10,043",
+                "page": 38,
+                "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "14,548",
+                "page": 38,
+                "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "14,717",
+                "page": 38,
+                "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "15,238",
+                "page": 38,
+                "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "20,283",
+                "page": 38,
+                "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Other Income",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "35",
+                "page": 38,
+                "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "33",
+                "page": 38,
+                "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "46",
+                "page": 38,
+                "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "43",
+                "page": 38,
+                "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "46",
+                "page": 38,
+                "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "37",
+                "page": 38,
+                "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Total Income",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "12,234",
+                "page": 38,
+                "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "10,076",
+                "page": 38,
+                "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "14,594",
+                "page": 38,
+                "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "14,759",
+                "page": 38,
+                "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "15,284",
+                "page": 38,
+                "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "20,319",
+                "page": 38,
+                "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+              }
+            }
+          ]
+        },
+        {
+          "label": "EBITDA",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "390",
+                "page": 38,
+                "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "267",
+                "page": 38,
+                "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "818",
+                "page": 38,
+                "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "827",
+                "page": 38,
+                "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "772",
+                "page": 38,
+                "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "1,076",
+                "page": 38,
+                "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+              }
+            }
+          ]
+        },
+        {
+          "label": "PAT",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "163",
+                "page": 38,
+                "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "108",
+                "page": 38,
+                "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "482",
+                "page": 38,
+                "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "492",
+                "page": 38,
+                "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "395",
+                "page": 38,
+                "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "651",
+                "page": 38,
+                "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+              }
+            }
+          ]
+        }
+      ],
+      "balanceSheet": [
+        {
+          "label": "Share Capital",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "58",
+                "page": 39,
+                "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "58",
+                "page": 39,
+                "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "58",
+                "page": 39,
+                "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "116",
+                "page": 39,
+                "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "126",
+                "page": 39,
+                "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "141",
+                "page": 39,
+                "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Net Worth",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "1,504",
+                "page": 39,
+                "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "1,613",
+                "page": 39,
+                "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "2,081",
+                "page": 39,
+                "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "2,541",
+                "page": 39,
+                "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "3,548",
+                "page": 39,
+                "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "5,975",
+                "page": 39,
+                "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Total Assets",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": "2,192",
+                "page": 39,
+                "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "3,191",
+                "page": 39,
+                "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "3,301",
+                "page": 39,
+                "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "4,341",
+                "page": 39,
+                "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "4,698",
+                "page": 39,
+                "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "7,313",
+                "page": 39,
+                "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+              }
+            }
+          ]
+        }
+      ],
+      "cashflow": [],
+      "ratios": [
+        {
+          "label": "Return on Equity (%)",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": null,
+                "page": null,
+                "quote": null
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": null,
+                "page": null,
+                "quote": null
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "23%",
+                "page": 25,
+                "quote": "15,238 | 2,000"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "19%",
+                "page": 25,
+                "quote": "600 | 3.0% | 19%"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "11%",
+                "page": 25,
+                "quote": "11.5%"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "11%",
+                "page": 25,
+                "quote": "11.5%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Net Working Capital Days",
+          "values": [
+            {
+              "period": "FY 2020",
+              "cell": {
+                "value": null,
+                "page": null,
+                "quote": null
+              }
+            },
+            {
+              "period": "FY 2021",
+              "cell": {
+                "value": "63",
+                "page": 26,
+                "quote": "63 | 56 | 58 | 55 | 50"
+              }
+            },
+            {
+              "period": "FY 2022",
+              "cell": {
+                "value": "56",
+                "page": 26,
+                "quote": "63 | 56 | 58 | 55 | 50"
+              }
+            },
+            {
+              "period": "FY 2023",
+              "cell": {
+                "value": "58",
+                "page": 26,
+                "quote": "63 | 56 | 58 | 55 | 50"
+              }
+            },
+            {
+              "period": "FY 2024",
+              "cell": {
+                "value": "55",
+                "page": 26,
+                "quote": "63 | 56 | 58 | 55 | 50"
+              }
+            },
+            {
+              "period": "FY 2025",
+              "cell": {
+                "value": "50",
+                "page": 26,
+                "quote": "63 | 56 | 58 | 55 | 50"
+              }
+            }
+          ]
+        }
+      ],
+      "segments": [
+        {
+          "label": "Lead Production (MT)",
+          "values": [
+            {
+              "period": "FY21",
+              "cell": {
+                "value": "60,283",
+                "page": 27,
+                "quote": "60,283"
+              }
+            },
+            {
+              "period": "FY22",
+              "cell": {
+                "value": "70,338",
+                "page": 27,
+                "quote": "70,338"
+              }
+            },
+            {
+              "period": "FY23",
+              "cell": {
+                "value": "75,078",
+                "page": 27,
+                "quote": "75,078"
+              }
+            },
+            {
+              "period": "FY24",
+              "cell": {
+                "value": "77,282",
+                "page": 27,
+                "quote": "77,282"
+              }
+            },
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "90,565",
+                "page": 27,
+                "quote": "90,565"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Lead Sales (MT)",
+          "values": [
+            {
+              "period": "FY21",
+              "cell": {
+                "value": "59,131",
+                "page": 27,
+                "quote": "59,131"
+              }
+            },
+            {
+              "period": "FY22",
+              "cell": {
+                "value": "68,322",
+                "page": 27,
+                "quote": "68,322 | 68,554"
+              }
+            },
+            {
+              "period": "FY23",
+              "cell": {
+                "value": "72,531",
+                "page": 27,
+                "quote": "72,531"
+              }
+            },
+            {
+              "period": "FY24",
+              "cell": {
+                "value": "68,554",
+                "page": 27,
+                "quote": "68,322 | 68,554"
+              }
+            },
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "94,115",
+                "page": 27,
+                "quote": "94,115"
+              }
+            }
+          ]
+        }
+      ],
+      "segmentPeriods": [
+        "FY21",
+        "FY22",
+        "FY23",
+        "FY24",
+        "FY25"
+      ]
+    },
+    "charts": {
+      "charts": [
+        {
+          "title": "Net Revenue",
+          "unit": "Rs. Million",
+          "bars": [
+            {
+              "label": "Q2FY25",
+              "value": 5724,
+              "page": 17,
+              "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+            },
+            {
+              "label": "Q2FY26",
+              "value": 6345,
+              "page": 17,
+              "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+            }
+          ],
+          "lineLabel": null,
+          "line": []
+        },
+        {
+          "title": "EBITDA",
+          "unit": "Rs. Million",
+          "bars": [
+            {
+              "label": "Q2FY25",
+              "value": 300,
+              "page": 17,
+              "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+            },
+            {
+              "label": "Q2FY26",
+              "value": 551,
+              "page": 17,
+              "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+            }
+          ],
+          "lineLabel": "EBITDA Margin (%)",
+          "line": [
+            {
+              "label": "Q2FY25",
+              "value": 5.2,
+              "page": 17,
+              "quote": "EBITDA Margin % | 8.7% | 7.2% | 5.2% | 8.0% | 5.3%"
+            },
+            {
+              "label": "Q2FY26",
+              "value": 8.7,
+              "page": 17,
+              "quote": "EBITDA Margin % | 8.7% | 7.2% | 5.2% | 8.0% | 5.3%"
+            }
+          ]
+        },
+        {
+          "title": "PAT",
+          "unit": "Rs. Million",
+          "bars": [
+            {
+              "label": "Q2FY25",
+              "value": 174,
+              "page": 17,
+              "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+            },
+            {
+              "label": "Q2FY26",
+              "value": 356,
+              "page": 17,
+              "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+            }
+          ],
+          "lineLabel": "PAT Margin (%)",
+          "line": [
+            {
+              "label": "Q2FY25",
+              "value": 3,
+              "page": 17,
+              "quote": "PAT Margin % | 5.6% | 4.6% | 3.0% | 5.1% | 3.2%"
+            },
+            {
+              "label": "Q2FY26",
+              "value": 5.6,
+              "page": 17,
+              "quote": "PAT Margin % | 5.6% | 4.6% | 3.0% | 5.1% | 3.2%"
+            }
+          ]
+        }
+      ],
+      "guidance": [
+        {
+          "text": "The company aims to deliver over 15% volume growth and sustain a revenue CAGR above 20% by 2030.",
+          "page": 5,
+          "quote": "Our strategic priorities include delivering over 15% volume growth, sustaining a revenue CAGR above 20%, and significantly enhancing profitability."
+        },
+        {
+          "text": "Management targets EBITDA margins above 8% and ROCE over 20%.",
+          "page": 5,
+          "quote": "We aim to achieve EBITDA margins above 8%, ROCE over 20%, and generate more than 60% of revenue from value-added products."
+        },
+        {
+          "text": "The second phase of the Lead capacity expansion project is expected to be commissioned in H2 FY26.",
+          "page": 14,
+          "quote": "Phase 2 is expected to commissioned in H2’FY26 ."
+        },
+        {
+          "text": "Estimated capital expenditure for the second half of FY26 is Rs. 35 crore.",
+          "page": 14,
+          "quote": "Estimated Capex for H2-FY26 = Rs. 35 Cr."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "page": 1,
+        "quote": "BSE Scrip Code : 532626"
+      },
+      {
+        "page": 5,
+        "quote": "POCL has achieved its highest-ever quarterly and half-yearly revenue, EBITDA, PAT, and margins, underpinned by strong operational execution."
+      },
+      {
+        "page": 5,
+        "quote": "We aim to achieve EBITDA margins above 8%, ROCE over 20%, and generate more than 60% of revenue from value-added products."
+      },
+      {
+        "page": 5,
+        "quote": "Supported by a clear strategic roadmap, strong financial health with a healthy net cash position, disciplined operations, a favorable regulatory environment"
+      },
+      {
+        "page": 5,
+        "quote": "Our strategic priorities include delivering over 15% volume growth, sustaining a revenue CAGR above 20%, and significantly enhancing profitability."
+      },
+      {
+        "page": 8,
+        "quote": "30 Years of Experience | 11% - 5 Years Revenue CAGR"
+      },
+      {
+        "page": 8,
+        "quote": "A/ Stable External rating from CRISIL"
+      },
+      {
+        "page": 11,
+        "quote": "1,68,000 MTPA"
+      },
+      {
+        "page": 11,
+        "quote": "Capacity 9,000 MTPA"
+      },
+      {
+        "page": 11,
+        "quote": "Capacity 6,000 MTPA"
+      },
+      {
+        "page": 11,
+        "quote": "Capacity 12,000 MTPA"
+      },
+      {
+        "page": 14,
+        "quote": "Phase 2 is expected to commissioned in H2’FY26 ."
+      },
+      {
+        "page": 14,
+        "quote": "Estimated Capex for H2-FY26 = Rs. 35 Cr."
+      },
+      {
+        "page": 17,
+        "quote": "Net Revenue | 6,345 | 5,962 | 6% | 5,724 | 11% | 12,307 | 10,092 | 22%"
+      },
+      {
+        "page": 17,
+        "quote": "EBITDA | 551 | 431 | 28% | 300 | 84% | 981 | 537 | 83%"
+      },
+      {
+        "page": 17,
+        "quote": "PAT | 356 | 276 | 29% | 174 | 105% | 631 | 319 | 98%"
+      },
+      {
+        "page": 17,
+        "quote": "Net Revenue | 6,345"
+      },
+      {
+        "page": 17,
+        "quote": "Other Income | 15"
+      },
+      {
+        "page": 17,
+        "quote": "Other Income | 15 | 18 | -13% | 10 | 57% | 33 | 21 | 58%"
+      },
+      {
+        "page": 17,
+        "quote": "Total Income | 6,361"
+      },
+      {
+        "page": 17,
+        "quote": "Total Income | 6,361 | 5,979 | 6% | 5,734 | 11% | 12,340 | 10,113 | 22%"
+      },
+      {
+        "page": 17,
+        "quote": "COGS | 5,431"
+      },
+      {
+        "page": 17,
+        "quote": "COGS | 5,431 | 5,263 | 3% | 5,179 | 5% | 10,694 | 9,087 | 18%"
+      },
+      {
+        "page": 17,
+        "quote": "Employee Benefit Expenses | 87"
+      },
+      {
+        "page": 17,
+        "quote": "Employee Benefit Expenses | 87 | 73 | 19% | 56 | 57% | 160 | 117 | 37%"
+      },
+      {
+        "page": 17,
+        "quote": "Other Expenses | 292"
+      },
+      {
+        "page": 17,
+        "quote": "Other Expenses | 292 | 213 | 37% | 200 | 46% | 505 | 373 | 35%"
+      },
+      {
+        "page": 17,
+        "quote": "Total Expenses | 5,810"
+      },
+      {
+        "page": 17,
+        "quote": "Total Expenses | 5,810 | 5,549 | 5% | 5,435 | 7% | 11,359 | 9,576 | 19%"
+      },
+      {
+        "page": 17,
+        "quote": "EBITDA | 551"
+      },
+      {
+        "page": 17,
+        "quote": "EBITDA Margin % | 8.7%"
+      },
+      {
+        "page": 17,
+        "quote": "EBITDA Margin % | 8.7% | 7.2% | 5.2% | 8.0% | 5.3%"
+      },
+      {
+        "page": 17,
+        "quote": "Depreciation | 58"
+      },
+      {
+        "page": 17,
+        "quote": "Depreciation | 58 | 35 | 66% | 27 | 117% | 93 | 49 | 90%"
+      },
+      {
+        "page": 17,
+        "quote": "Finance Cost | 13"
+      },
+      {
+        "page": 17,
+        "quote": "Finance Cost | 13 | 30 | -55% | 39 | -66% | 43 | 62 | -30%"
+      },
+      {
+        "page": 17,
+        "quote": "PBT | 479 | 366 | 31% | 233 | 105% | 845 | 426 | 98%"
+      },
+      {
+        "page": 17,
+        "quote": "Tax Expenses | 123"
+      },
+      {
+        "page": 17,
+        "quote": "Tax Expenses | 123 | 91 | 36% | 59 | 107% | 214 | 107 | 100%"
+      },
+      {
+        "page": 17,
+        "quote": "PAT Margin % | 5.6%"
+      },
+      {
+        "page": 17,
+        "quote": "PAT Margin % | 5.6% | 4.6% | 3.0% | 5.1% | 3.2%"
+      },
+      {
+        "page": 17,
+        "quote": "EPS - Diluted (Rs.) | 11.66"
+      },
+      {
+        "page": 17,
+        "quote": "EPS - Diluted (Rs.) | 11.66 | 9.54 | 22% | 6.47 | 80% | 20.69 | 11.93 | 73%"
+      },
+      {
+        "page": 25,
+        "quote": "15,238 | 2,000"
+      },
+      {
+        "page": 25,
+        "quote": "600 | 3.0% | 19%"
+      },
+      {
+        "page": 25,
+        "quote": "11.5%"
+      },
+      {
+        "page": 26,
+        "quote": "63 | 56 | 58 | 55 | 50"
+      },
+      {
+        "page": 27,
+        "quote": "60,283"
+      },
+      {
+        "page": 27,
+        "quote": "70,338"
+      },
+      {
+        "page": 27,
+        "quote": "75,078"
+      },
+      {
+        "page": 27,
+        "quote": "77,282"
+      },
+      {
+        "page": 27,
+        "quote": "90,565"
+      },
+      {
+        "page": 27,
+        "quote": "59,131"
+      },
+      {
+        "page": 27,
+        "quote": "68,322 | 68,554"
+      },
+      {
+        "page": 27,
+        "quote": "72,531"
+      },
+      {
+        "page": 27,
+        "quote": "94,115"
+      },
+      {
+        "page": 37,
+        "quote": "500+ Employees"
+      },
+      {
+        "page": 38,
+        "quote": "Net Revenue | 20,283 | 15,238 | 14,717 | 14,548 | 10,043 | 12,199"
+      },
+      {
+        "page": 38,
+        "quote": "Other Income | 37 | 46 | 43 | 46 | 33 | 35"
+      },
+      {
+        "page": 38,
+        "quote": "Total Income | 20,319 | 15,284 | 14,759 | 14,594 | 10,076 | 12,234"
+      },
+      {
+        "page": 38,
+        "quote": "EBITDA | 1,076 | 772 | 827 | 818 | 267 | 390"
+      },
+      {
+        "page": 38,
+        "quote": "PAT | 651 | 395 | 492 | 482 | 108 | 163"
+      },
+      {
+        "page": 39,
+        "quote": "Share Capital | 141 | 126 | 116 | 58 | 58 | 58"
+      },
+      {
+        "page": 39,
+        "quote": "Net Worth | 5,975 | 3,548 | 2,541 | 2,081 | 1,613 | 1,504"
+      },
+      {
+        "page": 39,
+        "quote": "Total Assets | 7,313 | 4,698 | 4,341 | 3,301 | 3,191 | 2,192"
+      },
+      {
+        "page": 40,
+        "quote": "MKT CAP (15-10-25) | INR 4,121.16 Cr. | INR 4,127.63 Cr."
+      },
+      {
+        "page": 40,
+        "quote": "Total | 3,05,11,279 | 100%"
+      },
+      {
+        "page": 40,
+        "quote": "Promoters | 1,20,04,000 | 39.34%"
+      },
+      {
+        "page": 40,
+        "quote": "Public | 1,85,07,279 | 60.66%"
+      }
+    ]
+  },
+  "trace": {
+    "startedAt": "2026-08-08T06:31:13.610Z",
+    "finishedAt": "2026-08-08T06:33:17.434Z",
+    "demoMode": false,
+    "provider": "Google Gemini",
+    "model": "gemini-3-flash-preview",
+    "thinkingLevel": "HIGH",
+    "sourceFile": "POCL Q2FY26.pdf",
+    "sourcePages": 41,
+    "sourceCharacters": 36862,
+    "passes": [
+      {
+        "pass": "profile",
+        "model": "gemini-3-flash-preview",
+        "durationMs": 22743,
+        "promptTokens": 14779,
+        "outputTokens": 2020,
+        "thoughtTokens": 2924,
+        "cachedTokens": 0,
+        "finishReason": "STOP",
+        "attempts": 1
+      },
+      {
+        "pass": "quarterly",
+        "model": "gemini-3-flash-preview",
+        "durationMs": 32087,
+        "promptTokens": 14737,
+        "outputTokens": 3423,
+        "thoughtTokens": 4473,
+        "cachedTokens": 0,
+        "finishReason": "STOP",
+        "attempts": 1
+      },
+      {
+        "pass": "statements",
+        "model": "gemini-3-flash-preview",
+        "durationMs": 56055,
+        "promptTokens": 14739,
+        "outputTokens": 4982,
+        "thoughtTokens": 7631,
+        "cachedTokens": 0,
+        "finishReason": "STOP",
+        "attempts": 1
+      },
+      {
+        "pass": "charts",
+        "model": "gemini-3-flash-preview",
+        "durationMs": 12920,
+        "promptTokens": 14776,
+        "outputTokens": 1326,
+        "thoughtTokens": 1379,
+        "cachedTokens": 0,
+        "finishReason": "STOP",
+        "attempts": 1
+      }
+    ],
+    "failedPasses": [],
+    "totals": {
+      "promptTokens": 59031,
+      "outputTokens": 11751,
+      "thoughtTokens": 16407,
+      "cachedTokens": 0,
+      "durationMs": 123824
+    },
+    "reconciliation": {
+      "valuesAccepted": 164,
+      "valuesRejected": 7,
+      "quotesRepaired": 82,
+      "pagesCorrected": 0,
+      "rejections": [
+        {
+          "field": "quarterly.Net Revenue.qoq",
+          "kind": "quote_not_found",
+          "detail": "\"6%\" cited to p17 but the quote is not on any page"
+        },
+        {
+          "field": "quarterly.Total Income.qoq",
+          "kind": "quote_not_found",
+          "detail": "\"6%\" cited to p17 but the quote is not on any page"
+        },
+        {
+          "field": "quarterly.COGS.yoy",
+          "kind": "quote_not_found",
+          "detail": "\"5%\" cited to p17 but the quote is not on any page"
+        },
+        {
+          "field": "quarterly.COGS.qoq",
+          "kind": "quote_not_found",
+          "detail": "\"3%\" cited to p17 but the quote is not on any page"
+        },
+        {
+          "field": "quarterly.Total Expenses.yoy",
+          "kind": "quote_not_found",
+          "detail": "\"7%\" cited to p17 but the quote is not on any page"
+        },
+        {
+          "field": "quarterly.Total Expenses.qoq",
+          "kind": "quote_not_found",
+          "detail": "\"5%\" cited to p17 but the quote is not on any page"
+        },
+        {
+          "field": "statements.ratios.Return on Equity (%).FY 2021",
+          "kind": "quote_not_found",
+          "detail": "\"7%\" cited to p25 but the quote is not on any page"
+        }
+      ]
+    },
+    "output": {
+      "highlights": 4,
+      "keyHighlights": 5,
+      "quarterlyRows": 16,
+      "profitAndLossRows": 5,
+      "balanceSheetRows": 3,
+      "cashflowRows": 0,
+      "ratioRows": 2,
+      "segmentRows": 2,
+      "shareholdingRows": 2,
+      "companyDataRows": 10,
+      "charts": 3,
+      "chartPoints": 10,
+      "sources": 69
+    }
+  }
+}

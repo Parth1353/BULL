@@ -1,0 +1,58 @@
+BULL AI — REPORT RUN TRACE
+========================================================================
+company                   Pondy Oxides and Chemicals
+source_file               POCL Q2FY26.pdf
+source_pages              41
+source_characters         36862
+started_at                2026-08-08T06:31:13.610Z
+finished_at               2026-08-08T06:33:17.434Z
+demo_mode                 false
+provider                  Google Gemini
+model                     gemini-3-flash-preview
+thinking_level            HIGH
+total_duration_s          123.8
+prompt_tokens             59031
+output_tokens             11751
+thought_tokens            16407
+cached_tokens             0
+
+EXTRACTION PASSES
+------------------------------------------------------------------------
+pass         model                  secs   prompt     out  thought   cached finish
+profile      gemini-3-flash-previ   22.7    14779    2020     2924        0 STOP
+quarterly    gemini-3-flash-previ   32.1    14737    3423     4473        0 STOP
+statements   gemini-3-flash-previ   56.1    14739    4982     7631        0 STOP
+charts       gemini-3-flash-previ   12.9    14776    1326     1379        0 STOP
+
+EVIDENCE RECONCILIATION
+------------------------------------------------------------------------
+facts_verified            164
+facts_rejected            7
+quotes_repaired           82
+pages_corrected           0
+
+rejected (not printed in the PDF):
+  - [quote_not_found] quarterly.Net Revenue.qoq: "6%" cited to p17 but the quote is not on any page
+  - [quote_not_found] quarterly.Total Income.qoq: "6%" cited to p17 but the quote is not on any page
+  - [quote_not_found] quarterly.COGS.yoy: "5%" cited to p17 but the quote is not on any page
+  - [quote_not_found] quarterly.COGS.qoq: "3%" cited to p17 but the quote is not on any page
+  - [quote_not_found] quarterly.Total Expenses.yoy: "7%" cited to p17 but the quote is not on any page
+  - [quote_not_found] quarterly.Total Expenses.qoq: "5%" cited to p17 but the quote is not on any page
+  - [quote_not_found] statements.ratios.Return on Equity (%).FY 2021: "7%" cited to p25 but the quote is not on any page
+
+STRUCTURED OUTPUT
+------------------------------------------------------------------------
+highlights                4
+key_highlights            5
+quarterly_rows            16
+profit_and_loss_rows      5
+balance_sheet_rows        3
+cashflow_rows             0
+ratio_rows                2
+segment_rows              2
+shareholding_rows         2
+company_data_rows         10
+charts                    3
+chart_points              10
+sources                   69
+

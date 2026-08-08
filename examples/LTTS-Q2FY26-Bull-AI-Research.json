@@ -1,0 +1,2264 @@
+{
+  "report": {
+    "companyName": "L&T Technology Services",
+    "sourceFile": "LTTS Q2FY26.pdf",
+    "generatedAt": "2026-08-08T05:53:29.807Z",
+    "profile": {
+      "sector": "Engineering and Technology Services",
+      "reportingPeriod": "Q2 FY26",
+      "reportDate": "October 17, 2025",
+      "documentType": "Press Release and Investor Presentation",
+      "headline": "L&T Technology Services reports 16% YoY growth in Q2FY26",
+      "description": {
+        "text": "L&T Technology Services (LTTS) is a global leader in engineering and technology services and a listed subsidiary of Larsen & Toubro (L&T). The company offers design, development, testing, and sustenance services across products and processes for clients across Mobility, Sustainability, and Tech segments.",
+        "page": 3,
+        "quote": "L&T Technology Services (LTTS) is a global leader in engineering and technology services. A listed subsidiary of Larsen & Toubro (L&T), we offer design, development, testing, and sustenance services across products and processes."
+      },
+      "highlights": [
+        {
+          "text": "Revenue reached ₹ 29,795 million for the quarter, registering growth of 15.8% YoY and 4.0% QoQ.",
+          "page": 2,
+          "quote": "Revenue at ₹ 29,795 million; growth of 15.8% YoY and 4.0% QoQ"
+        },
+        {
+          "text": "Net profit for Q2FY26 stood at ₹ 3,287 million, reflecting growth of 2.8% YoY and 4.1% QoQ.",
+          "page": 2,
+          "quote": "Net profit at ₹ 3,287 million, growth of 2.8% YoY and 4.1% QoQ"
+        },
+        {
+          "text": "USD revenue reached $337 million, representing constant currency growth of 10.4% YoY and 1.3% QoQ.",
+          "page": 2,
+          "quote": "USD Revenue at $337 million; growth of 10.4% YoY and 1.3% QoQ in CC terms"
+        },
+        {
+          "text": "The company achieved a record high large deal total contract value of near-USD 300 million during the quarter.",
+          "page": 2,
+          "quote": "Our strong momentum of large deal wins continued as we touched a record high TCV of near-USD 300 Mn in the quarter"
+        },
+        {
+          "text": "The Board declared an Interim Dividend of ₹ 18 per share with a record date of October 27, 2025.",
+          "page": 2,
+          "quote": "Interim Dividend of ₹ 18 per share; record date October 27, 2025"
+        }
+      ],
+      "keyHighlights": [
+        {
+          "text": "LTTS signed a $100 million multi-year agreement in its Sustainability segment with a U.S.-based industrial equipment manufacturer operating in the semiconductor value chain.",
+          "page": 8,
+          "quote": "LTTS signed a $100 million multi-year agreement in its Sustainability segment with a U.S.-based industrial equipment manufacturer operating in the semiconductor value chain"
+        },
+        {
+          "text": "In the Tech segment, LTTS was awarded a ~$60 million multi-year program by a U.S.-based provider of wireless telecommunications services.",
+          "page": 8,
+          "quote": "In the Tech segment, LTTS was awarded a ~$60 million multi-year program, by a U.S. based provider of wireless telecommunications services"
+        },
+        {
+          "text": "The Sustainability segment grew 3.0% sequentially and 12.6% annually, now holding a USD 50 Mn account on an annual run-rate basis.",
+          "page": 7,
+          "quote": "The Sustainability segment grew 3.0% sequentially and 12.6% annually and now has a USD 50 Mn account on an annual run-rate basis."
+        },
+        {
+          "text": "The company's patent filings crossed the 1,600 mark to 1,601, including 216 patents in AI/Gen AI.",
+          "page": 2,
+          "quote": "Patent filings have crossed 1,600 mark, 216 patents in AI/Gen AI"
+        },
+        {
+          "text": "LTTS announced a multi-year membership agreement with the MIT Media Lab to collaborate on AI-led innovations across Mobility, Sustainability, and Tech segments.",
+          "page": 3,
+          "quote": "LTTS announced a multi-year membership agreement with the MIT Media Lab to collaborate on AI-led innovations in its Mobility, Sustainability and Tech segments"
+        }
+      ],
+      "outlook": {
+        "text": "LTTS expects both revenue and EBIT margins to see an improvement in H2 compared to H1 of FY26, aspires for double-digit growth in FY26, and maintains its medium-term outlook of USD 2 Bn revenue.",
+        "page": 7,
+        "quote": "With an increased order book and a sharp focus on resilient and profitable growth, we expect both revenue and EBIT margins to see an improvement in H2 compared to H1 of FY26. We aspire for a double-digit growth in FY26 and reiterate our medium-term outlook of USD 2 Bn revenue."
+      },
+      "companyData": [
+        {
+          "label": "NSE Symbol",
+          "cell": {
+            "value": "LTTS",
+            "page": 1,
+            "quote": "NSE Symbol: LTTS"
+          }
+        },
+        {
+          "label": "BSE Script Code",
+          "cell": {
+            "value": "540115",
+            "page": 1,
+            "quote": "BSE Script Code: 540115"
+          }
+        },
+        {
+          "label": "Corporate Identity Number (CIN)",
+          "cell": {
+            "value": "L72900MH2012PLC232169",
+            "page": 1,
+            "quote": "CIN: L72900MH2012PLC232169"
+          }
+        },
+        {
+          "label": "Total Headcount",
+          "cell": {
+            "value": "23,678",
+            "page": 3,
+            "quote": "At the end of Q2 FY26, LTTS’ employee strength stood at 23,678."
+          }
+        },
+        {
+          "label": "Global Design Centers",
+          "cell": {
+            "value": "23",
+            "page": 3,
+            "quote": "over 23,670 employees across 23 global design centers"
+          }
+        },
+        {
+          "label": "Global Sales Offices",
+          "cell": {
+            "value": "30",
+            "page": 3,
+            "quote": "30 global sales offices"
+          }
+        },
+        {
+          "label": "Innovation Labs",
+          "cell": {
+            "value": "105",
+            "page": 3,
+            "quote": "105 innovation labs"
+          }
+        },
+        {
+          "label": "Patents Portfolio",
+          "cell": {
+            "value": "1,601",
+            "page": 16,
+            "quote": "the patents portfolio of L&T Technology Services stood at 1,601"
+          }
+        },
+        {
+          "label": "Market Capitalisation",
+          "cell": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "label": "Credit Rating",
+          "cell": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        }
+      ],
+      "shareholdingPeriods": [],
+      "shareholding": []
+    },
+    "quarterly": {
+      "unit": "Amount in ₹ million",
+      "currentLabel": "Q2 FY26",
+      "priorYearLabel": "Q2 FY25",
+      "previousQuarterLabel": "Q1 FY26",
+      "rows": [
+        {
+          "metric": "Revenue",
+          "current": {
+            "value": "29,795",
+            "page": 9,
+            "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+          },
+          "priorYear": {
+            "value": "25,729",
+            "page": 9,
+            "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+          },
+          "yoy": {
+            "value": "15.8%",
+            "page": 9,
+            "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+          },
+          "previousQuarter": {
+            "value": "28,660",
+            "page": 9,
+            "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+          },
+          "qoq": {
+            "value": "4.0%",
+            "page": 9,
+            "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+          }
+        },
+        {
+          "metric": "Cost of sales",
+          "current": {
+            "value": "21,462",
+            "page": 9,
+            "quote": "Cost of sales  18,192  20,625  21,462"
+          },
+          "priorYear": {
+            "value": "18,192",
+            "page": 9,
+            "quote": "Cost of sales  18,192  20,625  21,462"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "20,625",
+            "page": 9,
+            "quote": "Cost of sales  18,192  20,625  21,462"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Gross Profit",
+          "current": {
+            "value": "8,333",
+            "page": 9,
+            "quote": "Gross Profit  7,537  8,035  8,333  3.7%  10.6%"
+          },
+          "priorYear": {
+            "value": "7,537",
+            "page": 9,
+            "quote": "Gross Profit  7,537  8,035  8,333  3.7%  10.6%"
+          },
+          "yoy": {
+            "value": "10.6%",
+            "page": 9,
+            "quote": "Gross Profit  7,537  8,035  8,333  3.7%  10.6%"
+          },
+          "previousQuarter": {
+            "value": "8,035",
+            "page": 9,
+            "quote": "Gross Profit  7,537  8,035  8,333  3.7%  10.6%"
+          },
+          "qoq": {
+            "value": "3.7%",
+            "page": 9,
+            "quote": "Gross Profit  7,537  8,035  8,333  3.7%  10.6%"
+          }
+        },
+        {
+          "metric": "Selling, General & Administration Expenses",
+          "current": {
+            "value": "3,425",
+            "page": 9,
+            "quote": "Selling, General & Administration Expenses  2,877  3,411  3,425"
+          },
+          "priorYear": {
+            "value": "2,877",
+            "page": 9,
+            "quote": "Selling, General & Administration Expenses  2,877  3,411  3,425"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "3,411",
+            "page": 9,
+            "quote": "Selling, General & Administration Expenses  2,877  3,411  3,425"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "EBITDA",
+          "current": {
+            "value": "4,908",
+            "page": 9,
+            "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+          },
+          "priorYear": {
+            "value": "4,660",
+            "page": 9,
+            "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+          },
+          "yoy": {
+            "value": "5.3%",
+            "page": 9,
+            "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+          },
+          "previousQuarter": {
+            "value": "4,624",
+            "page": 9,
+            "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+          },
+          "qoq": {
+            "value": "6.1%",
+            "page": 9,
+            "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+          }
+        },
+        {
+          "metric": "Depreciation & Amortisation",
+          "current": {
+            "value": "926",
+            "page": 9,
+            "quote": "Depreciation & Amortisation  783  811  926"
+          },
+          "priorYear": {
+            "value": "783",
+            "page": 9,
+            "quote": "Depreciation & Amortisation  783  811  926"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "811",
+            "page": 9,
+            "quote": "Depreciation & Amortisation  783  811  926"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "EBIT",
+          "current": {
+            "value": "3,982",
+            "page": 9,
+            "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+          },
+          "priorYear": {
+            "value": "3,877",
+            "page": 9,
+            "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+          },
+          "yoy": {
+            "value": "2.7%",
+            "page": 9,
+            "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+          },
+          "previousQuarter": {
+            "value": "3,813",
+            "page": 9,
+            "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+          },
+          "qoq": {
+            "value": "4.4%",
+            "page": 9,
+            "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+          }
+        },
+        {
+          "metric": "Other Income, net",
+          "current": {
+            "value": "498",
+            "page": 9,
+            "quote": "Other Income, net  531  512  498"
+          },
+          "priorYear": {
+            "value": "531",
+            "page": 9,
+            "quote": "Other Income, net  531  512  498"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "512",
+            "page": 9,
+            "quote": "Other Income, net  531  512  498"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Income tax expense",
+          "current": {
+            "value": "1,188",
+            "page": 9,
+            "quote": "Income tax expense  1,208  1,164  1,188"
+          },
+          "priorYear": {
+            "value": "1,208",
+            "page": 9,
+            "quote": "Income tax expense  1,208  1,164  1,188"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "1,164",
+            "page": 9,
+            "quote": "Income tax expense  1,208  1,164  1,188"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Minority Interest",
+          "current": {
+            "value": "5",
+            "page": 9,
+            "quote": "Minority Interest  4  4  5"
+          },
+          "priorYear": {
+            "value": "4",
+            "page": 9,
+            "quote": "Minority Interest  4  4  5"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "4",
+            "page": 9,
+            "quote": "Minority Interest  4  4  5"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Net Income",
+          "current": {
+            "value": "3,287",
+            "page": 9,
+            "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+          },
+          "priorYear": {
+            "value": "3,196",
+            "page": 9,
+            "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+          },
+          "yoy": {
+            "value": "2.8%",
+            "page": 9,
+            "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+          },
+          "previousQuarter": {
+            "value": "3,157",
+            "page": 9,
+            "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+          },
+          "qoq": {
+            "value": "4.1%",
+            "page": 9,
+            "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+          }
+        },
+        {
+          "metric": "Gross Margin",
+          "current": {
+            "value": "28.0%",
+            "page": 9,
+            "quote": "Gross Margin  29.3%  28.0%  28.0%"
+          },
+          "priorYear": {
+            "value": "29.3%",
+            "page": 9,
+            "quote": "Gross Margin  29.3%  28.0%  28.0%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "28.0%",
+            "page": 9,
+            "quote": "Gross Margin  29.3%  28.0%  28.0%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "EBITDA Margin",
+          "current": {
+            "value": "16.5%",
+            "page": 9,
+            "quote": "EBITDA Margin  18.1%  16.1%  16.5%"
+          },
+          "priorYear": {
+            "value": "18.1%",
+            "page": 9,
+            "quote": "EBITDA Margin  18.1%  16.1%  16.5%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "16.1%",
+            "page": 9,
+            "quote": "EBITDA Margin  18.1%  16.1%  16.5%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "EBIT Margin",
+          "current": {
+            "value": "13.4%",
+            "page": 9,
+            "quote": "EBIT Margin  15.1%  13.3%  13.4%"
+          },
+          "priorYear": {
+            "value": "15.1%",
+            "page": 9,
+            "quote": "EBIT Margin  15.1%  13.3%  13.4%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "13.3%",
+            "page": 9,
+            "quote": "EBIT Margin  15.1%  13.3%  13.4%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Net Income Margin",
+          "current": {
+            "value": "11.0%",
+            "page": 9,
+            "quote": "Net Income Margin  12.4%  11.0%  11.0%"
+          },
+          "priorYear": {
+            "value": "12.4%",
+            "page": 9,
+            "quote": "Net Income Margin  12.4%  11.0%  11.0%"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "11.0%",
+            "page": 9,
+            "quote": "Net Income Margin  12.4%  11.0%  11.0%"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Basic EPS",
+          "current": {
+            "value": "31.02",
+            "page": 9,
+            "quote": "Basic  30.20  29.81  31.02"
+          },
+          "priorYear": {
+            "value": "30.20",
+            "page": 9,
+            "quote": "Basic  30.20  29.81  31.02"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "29.81",
+            "page": 9,
+            "quote": "Basic  30.20  29.81  31.02"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        },
+        {
+          "metric": "Diluted EPS",
+          "current": {
+            "value": "30.97",
+            "page": 9,
+            "quote": "Diluted  30.12  29.77  30.97"
+          },
+          "priorYear": {
+            "value": "30.12",
+            "page": 9,
+            "quote": "Diluted  30.12  29.77  30.97"
+          },
+          "yoy": {
+            "value": null,
+            "page": null,
+            "quote": null
+          },
+          "previousQuarter": {
+            "value": "29.77",
+            "page": 9,
+            "quote": "Diluted  30.12  29.77  30.97"
+          },
+          "qoq": {
+            "value": null,
+            "page": null,
+            "quote": null
+          }
+        }
+      ]
+    },
+    "statements": {
+      "unit": "₹ million",
+      "periods": [
+        "Q2 FY25",
+        "Q1 FY26",
+        "Q2 FY26"
+      ],
+      "profitAndLoss": [
+        {
+          "label": "Revenue",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "25,729",
+                "page": 9,
+                "quote": "Revenue | 25,729 | 28,660 | 29,795 | 4.0% | 15.8%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "28,660",
+                "page": 9,
+                "quote": "Revenue | 25,729 | 28,660 | 29,795 | 4.0% | 15.8%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "29,795",
+                "page": 9,
+                "quote": "Revenue | 25,729 | 28,660 | 29,795 | 4.0% | 15.8%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Cost of sales",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "18,192",
+                "page": 9,
+                "quote": "Cost of sales | 18,192 | 20,625 | 21,462"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "20,625",
+                "page": 9,
+                "quote": "Cost of sales | 18,192 | 20,625 | 21,462"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "21,462",
+                "page": 9,
+                "quote": "Cost of sales | 18,192 | 20,625 | 21,462"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Gross Profit",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "7,537",
+                "page": 9,
+                "quote": "Gross Profit | 7,537 | 8,035 | 8,333 | 3.7% | 10.6%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "8,035",
+                "page": 9,
+                "quote": "Gross Profit | 7,537 | 8,035 | 8,333 | 3.7% | 10.6%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "8,333",
+                "page": 9,
+                "quote": "Gross Profit | 7,537 | 8,035 | 8,333 | 3.7% | 10.6%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Selling, General & Administration Expenses",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "2,877",
+                "page": 9,
+                "quote": "Selling, General & Administration Expenses | 2,877 | 3,411 | 3,425"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "3,411",
+                "page": 9,
+                "quote": "Selling, General & Administration Expenses | 2,877 | 3,411 | 3,425"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "3,425",
+                "page": 9,
+                "quote": "Selling, General & Administration Expenses | 2,877 | 3,411 | 3,425"
+              }
+            }
+          ]
+        },
+        {
+          "label": "EBITDA",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "4,660",
+                "page": 9,
+                "quote": "EBITDA | 4,660 | 4,624 | 4,908 | 6.1% | 5.3%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "4,624",
+                "page": 9,
+                "quote": "EBITDA | 4,660 | 4,624 | 4,908 | 6.1% | 5.3%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "4,908",
+                "page": 9,
+                "quote": "EBITDA | 4,660 | 4,624 | 4,908 | 6.1% | 5.3%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Depreciation & Amortisation",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "783",
+                "page": 9,
+                "quote": "Depreciation & Amortisation | 783 | 811 | 926"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "811",
+                "page": 9,
+                "quote": "Depreciation & Amortisation | 783 | 811 | 926"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "926",
+                "page": 9,
+                "quote": "Depreciation & Amortisation | 783 | 811 | 926"
+              }
+            }
+          ]
+        },
+        {
+          "label": "EBIT",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "3,877",
+                "page": 9,
+                "quote": "EBIT | 3,877 | 3,813 | 3,982 | 4.4% | 2.7%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "3,813",
+                "page": 9,
+                "quote": "EBIT | 3,877 | 3,813 | 3,982 | 4.4% | 2.7%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "3,982",
+                "page": 9,
+                "quote": "EBIT | 3,877 | 3,813 | 3,982 | 4.4% | 2.7%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Other Income, net",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "531",
+                "page": 9,
+                "quote": "Other Income, net | 531 | 512 | 498"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "512",
+                "page": 9,
+                "quote": "Other Income, net | 531 | 512 | 498"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "498",
+                "page": 9,
+                "quote": "Other Income, net | 531 | 512 | 498"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Income tax expense",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "1,208",
+                "page": 9,
+                "quote": "Income tax expense | 1,208 | 1,164 | 1,188"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "1,164",
+                "page": 9,
+                "quote": "Income tax expense | 1,208 | 1,164 | 1,188"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "1,188",
+                "page": 9,
+                "quote": "Income tax expense | 1,208 | 1,164 | 1,188"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Minority Interest",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "4",
+                "page": 9,
+                "quote": "Minority Interest | 4 | 4 | 5"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "4",
+                "page": 9,
+                "quote": "Minority Interest | 4 | 4 | 5"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "5",
+                "page": 9,
+                "quote": "Minority Interest | 4 | 4 | 5"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Net Income",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "3,196",
+                "page": 9,
+                "quote": "Net Income | 3,196 | 3,157 | 3,287 | 4.1% | 2.8%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "3,157",
+                "page": 9,
+                "quote": "Net Income | 3,196 | 3,157 | 3,287 | 4.1% | 2.8%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "3,287",
+                "page": 9,
+                "quote": "Net Income | 3,196 | 3,157 | 3,287 | 4.1% | 2.8%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Basic EPS",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "30.20",
+                "page": 9,
+                "quote": "Basic | 30.20 | 29.81 | 31.02"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "29.81",
+                "page": 9,
+                "quote": "Basic | 30.20 | 29.81 | 31.02"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "31.02",
+                "page": 9,
+                "quote": "Basic | 30.20 | 29.81 | 31.02"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Diluted EPS",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "30.12",
+                "page": 9,
+                "quote": "Diluted | 30.12 | 29.77 | 30.97"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "29.77",
+                "page": 9,
+                "quote": "Diluted | 30.12 | 29.77 | 30.97"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "30.97",
+                "page": 9,
+                "quote": "Diluted | 30.12 | 29.77 | 30.97"
+              }
+            }
+          ]
+        }
+      ],
+      "balanceSheet": [
+        {
+          "label": "Property and equipment",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "9,063",
+                "page": 11,
+                "quote": "Property and equipment | 9,063 | 9,362"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "9,362",
+                "page": 11,
+                "quote": "Property and equipment | 9,063 | 9,362"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Intangible Assets and Goodwill",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "13,667",
+                "page": 11,
+                "quote": "Intangible Assets and Goodwill | 13,667 | 13,673"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "13,673",
+                "page": 11,
+                "quote": "Intangible Assets and Goodwill | 13,667 | 13,673"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Accounts Receivable",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "29,165",
+                "page": 11,
+                "quote": "Accounts Receivable | 29,165 | 31,987"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "31,987",
+                "page": 11,
+                "quote": "Accounts Receivable | 29,165 | 31,987"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Unbilled Revenues",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "5,953",
+                "page": 11,
+                "quote": "Unbilled Revenues | 5,953 | 6,838"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "6,838",
+                "page": 11,
+                "quote": "Unbilled Revenues | 5,953 | 6,838"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Investments",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "13,096",
+                "page": 11,
+                "quote": "Investments | 13,096 | 13,846"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "13,846",
+                "page": 11,
+                "quote": "Investments | 13,096 | 13,846"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Cash and Cash equivalents",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "15,658",
+                "page": 11,
+                "quote": "Cash and Cash equivalents | 15,658 | 14,918"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "14,918",
+                "page": 11,
+                "quote": "Cash and Cash equivalents | 15,658 | 14,918"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Other current assets",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "4,262",
+                "page": 11,
+                "quote": "Other current assets | 4,262 | 3,841"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "3,841",
+                "page": 11,
+                "quote": "Other current assets | 4,262 | 3,841"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Other non-current assets",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "5,571",
+                "page": 11,
+                "quote": "Other non-current assets | 5,571 | 2,851"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "2,851",
+                "page": 11,
+                "quote": "Other non-current assets | 5,571 | 2,851"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Total Assets",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "96,435",
+                "page": 11,
+                "quote": "Total Assets | 96,435 | 97,316"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "97,316",
+                "page": 11,
+                "quote": "Total Assets | 96,435 | 97,316"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Shareholders' Funds",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "60,800",
+                "page": 11,
+                "quote": "Shareholders' Funds | 60,800 | 61,890"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "61,890",
+                "page": 11,
+                "quote": "Shareholders' Funds | 60,800 | 61,890"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Other current liabilities",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "29,900",
+                "page": 11,
+                "quote": "Other current liabilities | 29,900 | 28,670"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "28,670",
+                "page": 11,
+                "quote": "Other current liabilities | 29,900 | 28,670"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Other non-current liabilities",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "5,560",
+                "page": 11,
+                "quote": "Other non-current liabilities | 5,560 | 6,572"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "6,572",
+                "page": 11,
+                "quote": "Other non-current liabilities | 5,560 | 6,572"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Minority Interest",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "175",
+                "page": 11,
+                "quote": "Minority Interest | 175 | 184"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "184",
+                "page": 11,
+                "quote": "Minority Interest | 175 | 184"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Total Liabilities",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "96,435",
+                "page": 11,
+                "quote": "Total Liabilities | 96,435 | 97,316"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "97,316",
+                "page": 11,
+                "quote": "Total Liabilities | 96,435 | 97,316"
+              }
+            }
+          ]
+        }
+      ],
+      "cashflow": [
+        {
+          "label": "Net cash provided by operating activities",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "14,811",
+                "page": 11,
+                "quote": "Net cash provided by operating activities | 14,811 | 4,809"
+              }
+            },
+            {
+              "period": "YTD FY26",
+              "cell": {
+                "value": "4,809",
+                "page": 11,
+                "quote": "Net cash provided by operating activities | 14,811 | 4,809"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Capex",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "1,018",
+                "page": 11,
+                "quote": "Less: Capex | 1,018 | 643"
+              }
+            },
+            {
+              "period": "YTD FY26",
+              "cell": {
+                "value": "643",
+                "page": 11,
+                "quote": "Less: Capex | 1,018 | 643"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Free Cash Flow",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "13,793",
+                "page": 11,
+                "quote": "Free Cash Flow | 13,793 | 4,166"
+              }
+            },
+            {
+              "period": "YTD FY26",
+              "cell": {
+                "value": "4,166",
+                "page": 11,
+                "quote": "Free Cash Flow | 13,793 | 4,166"
+              }
+            }
+          ]
+        }
+      ],
+      "ratios": [
+        {
+          "label": "Gross Margin",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "29.3%",
+                "page": 9,
+                "quote": "Gross Margin | 29.3% | 28.0% | 28.0%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "28.0%",
+                "page": 9,
+                "quote": "Gross Margin | 29.3% | 28.0% | 28.0%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "28.0%",
+                "page": 9,
+                "quote": "Gross Margin | 29.3% | 28.0% | 28.0%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "EBITDA Margin",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "18.1%",
+                "page": 9,
+                "quote": "EBITDA Margin | 18.1% | 16.1% | 16.5%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "16.1%",
+                "page": 9,
+                "quote": "EBITDA Margin | 18.1% | 16.1% | 16.5%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "16.5%",
+                "page": 9,
+                "quote": "EBITDA Margin | 18.1% | 16.1% | 16.5%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "EBIT Margin",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "15.1%",
+                "page": 9,
+                "quote": "EBIT Margin | 15.1% | 13.3% | 13.4%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "13.3%",
+                "page": 9,
+                "quote": "EBIT Margin | 15.1% | 13.3% | 13.4%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "13.4%",
+                "page": 9,
+                "quote": "EBIT Margin | 15.1% | 13.3% | 13.4%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Net Income Margin",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "12.4%",
+                "page": 9,
+                "quote": "Net Income Margin | 12.4% | 11.0% | 11.0%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "11.0%",
+                "page": 9,
+                "quote": "Net Income Margin | 12.4% | 11.0% | 11.0%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "11.0%",
+                "page": 9,
+                "quote": "Net Income Margin | 12.4% | 11.0% | 11.0%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Free Cash Flow to Net Income (%)",
+          "values": [
+            {
+              "period": "FY25",
+              "cell": {
+                "value": "109%",
+                "page": 11,
+                "quote": "Free Cash Flow to Net Income (%) | 109% | 65%"
+              }
+            },
+            {
+              "period": "YTD FY26",
+              "cell": {
+                "value": "65%",
+                "page": 11,
+                "quote": "Free Cash Flow to Net Income (%) | 109% | 65%"
+              }
+            }
+          ]
+        }
+      ],
+      "segments": [
+        {
+          "label": "Mobility",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "35.5%",
+                "page": 12,
+                "quote": "Mobility | 35.5% | 29.6% | 29.0% | -1.4% | -10.1%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "29.6%",
+                "page": 12,
+                "quote": "Mobility | 35.5% | 29.6% | 29.0% | -1.4% | -10.1%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "29.0%",
+                "page": 12,
+                "quote": "Mobility | 35.5% | 29.6% | 29.0% | -1.4% | -10.1%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Sustainability",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "30.8%",
+                "page": 12,
+                "quote": "Sustainability | 30.8% | 30.8% | 31.6% | 3.0% | 12.6%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "30.8%",
+                "page": 12,
+                "quote": "Sustainability | 30.8% | 30.8% | 31.6% | 3.0% | 12.6%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "31.6%",
+                "page": 12,
+                "quote": "Sustainability | 30.8% | 30.8% | 31.6% | 3.0% | 12.6%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Tech",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "33.7%",
+                "page": 12,
+                "quote": "Tech | 33.7% | 39.6% | 39.4% | 0.1% | 28.6%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "39.6%",
+                "page": 12,
+                "quote": "Tech | 33.7% | 39.6% | 39.4% | 0.1% | 28.6%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "39.4%",
+                "page": 12,
+                "quote": "Tech | 33.7% | 39.6% | 39.4% | 0.1% | 28.6%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "North America",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "52.5%",
+                "page": 12,
+                "quote": "North America | 52.5% | 54.1% | 54.7% | 1.7% | 14.4%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "54.1%",
+                "page": 12,
+                "quote": "North America | 52.5% | 54.1% | 54.7% | 1.7% | 14.4%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "54.7%",
+                "page": 12,
+                "quote": "North America | 52.5% | 54.1% | 54.7% | 1.7% | 14.4%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Europe",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "18.4%",
+                "page": 12,
+                "quote": "Europe | 18.4% | 17.1% | 17.3% | 1.5% | 3.3%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "17.1%",
+                "page": 12,
+                "quote": "Europe | 18.4% | 17.1% | 17.3% | 1.5% | 3.3%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "17.3%",
+                "page": 12,
+                "quote": "Europe | 18.4% | 17.1% | 17.3% | 1.5% | 3.3%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "India",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "21.9%",
+                "page": 12,
+                "quote": "India | 21.9% | 21.0% | 21.5% | 3.0% | 8.1%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "21.0%",
+                "page": 12,
+                "quote": "India | 21.9% | 21.0% | 21.5% | 3.0% | 8.1%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "21.5%",
+                "page": 12,
+                "quote": "India | 21.9% | 21.0% | 21.5% | 3.0% | 8.1%"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Rest of the World",
+          "values": [
+            {
+              "period": "Q2 FY25",
+              "cell": {
+                "value": "7.2%",
+                "page": 12,
+                "quote": "Rest of the World | 7.2% | 7.8% | 6.5% | -15.9% | -0.4%"
+              }
+            },
+            {
+              "period": "Q1 FY26",
+              "cell": {
+                "value": "7.8%",
+                "page": 12,
+                "quote": "Rest of the World | 7.2% | 7.8% | 6.5% | -15.9% | -0.4%"
+              }
+            },
+            {
+              "period": "Q2 FY26",
+              "cell": {
+                "value": "6.5%",
+                "page": 12,
+                "quote": "Rest of the World | 7.2% | 7.8% | 6.5% | -15.9% | -0.4%"
+              }
+            }
+          ]
+        }
+      ],
+      "segmentPeriods": [
+        "Q2 FY25",
+        "Q1 FY26",
+        "Q2 FY26"
+      ]
+    },
+    "charts": {
+      "charts": [
+        {
+          "title": "Revenue",
+          "unit": "₹ million",
+          "bars": [
+            {
+              "label": "Q2 FY25",
+              "value": 25729,
+              "page": 9,
+              "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 28660,
+              "page": 9,
+              "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 29795,
+              "page": 9,
+              "quote": "Revenue  25,729  28,660  29,795  4.0%  15.8%"
+            }
+          ],
+          "lineLabel": null,
+          "line": []
+        },
+        {
+          "title": "EBITDA",
+          "unit": "₹ million",
+          "bars": [
+            {
+              "label": "Q2 FY25",
+              "value": 4660,
+              "page": 9,
+              "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 4624,
+              "page": 9,
+              "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 4908,
+              "page": 9,
+              "quote": "EBITDA  4,660  4,624  4,908  6.1%  5.3%"
+            }
+          ],
+          "lineLabel": "EBITDA Margin (%)",
+          "line": [
+            {
+              "label": "Q2 FY25",
+              "value": 18.1,
+              "page": 9,
+              "quote": "EBITDA Margin  18.1%  16.1%  16.5%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 16.1,
+              "page": 9,
+              "quote": "EBITDA Margin  18.1%  16.1%  16.5%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 16.5,
+              "page": 9,
+              "quote": "EBITDA Margin  18.1%  16.1%  16.5%"
+            }
+          ]
+        },
+        {
+          "title": "EBIT",
+          "unit": "₹ million",
+          "bars": [
+            {
+              "label": "Q2 FY25",
+              "value": 3877,
+              "page": 9,
+              "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 3813,
+              "page": 9,
+              "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 3982,
+              "page": 9,
+              "quote": "EBIT  3,877  3,813  3,982  4.4%  2.7%"
+            }
+          ],
+          "lineLabel": "EBIT Margin (%)",
+          "line": [
+            {
+              "label": "Q2 FY25",
+              "value": 15.1,
+              "page": 9,
+              "quote": "EBIT Margin  15.1%  13.3%  13.4%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 13.3,
+              "page": 9,
+              "quote": "EBIT Margin  15.1%  13.3%  13.4%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 13.4,
+              "page": 9,
+              "quote": "EBIT Margin  15.1%  13.3%  13.4%"
+            }
+          ]
+        },
+        {
+          "title": "Net Income",
+          "unit": "₹ million",
+          "bars": [
+            {
+              "label": "Q2 FY25",
+              "value": 3196,
+              "page": 9,
+              "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 3157,
+              "page": 9,
+              "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 3287,
+              "page": 9,
+              "quote": "Net Income  3,196  3,157  3,287  4.1%  2.8%"
+            }
+          ],
+          "lineLabel": "Net Income Margin (%)",
+          "line": [
+            {
+              "label": "Q2 FY25",
+              "value": 12.4,
+              "page": 9,
+              "quote": "Net Income Margin  12.4%  11.0%  11.0%"
+            },
+            {
+              "label": "Q1 FY26",
+              "value": 11,
+              "page": 9,
+              "quote": "Net Income Margin  12.4%  11.0%  11.0%"
+            },
+            {
+              "label": "Q2 FY26",
+              "value": 11,
+              "page": 9,
+              "quote": "Net Income Margin  12.4%  11.0%  11.0%"
+            }
+          ]
+        }
+      ],
+      "guidance": [
+        {
+          "text": "Expect both revenue and EBIT margins to see an improvement in H2 compared to H1 of FY26.",
+          "page": 7,
+          "quote": "we expect both revenue and EBIT margins to see an improvement in H2 compared to H1 of FY26."
+        },
+        {
+          "text": "Aspire for a double-digit growth in FY26 and reiterate medium-term outlook of USD 2 Bn revenue.",
+          "page": 7,
+          "quote": "We aspire for a double-digit growth in FY26 and reiterate our medium-term outlook of USD 2 Bn revenue."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "page": 1,
+        "quote": "NSE Symbol: LTTS"
+      },
+      {
+        "page": 1,
+        "quote": "BSE Script Code: 540115"
+      },
+      {
+        "page": 1,
+        "quote": "CIN: L72900MH2012PLC232169"
+      },
+      {
+        "page": 2,
+        "quote": "Revenue at ₹ 29,795 million; growth of 15.8% YoY and 4.0% QoQ"
+      },
+      {
+        "page": 2,
+        "quote": "Net profit at ₹ 3,287 million, growth of 2.8% YoY and 4.1% QoQ"
+      },
+      {
+        "page": 2,
+        "quote": "USD Revenue at $337 million; growth of 10.4% YoY and 1.3% QoQ in CC terms"
+      },
+      {
+        "page": 2,
+        "quote": "Our strong momentum of large deal wins continued as we touched a record high TCV of near-USD 300 Mn in the quarter"
+      },
+      {
+        "page": 2,
+        "quote": "Interim Dividend of ₹ 18 per share; record date October 27, 2025"
+      },
+      {
+        "page": 2,
+        "quote": "Patent filings have crossed 1,600 mark, 216 patents in AI/Gen AI"
+      },
+      {
+        "page": 3,
+        "quote": "L&T Technology Services (LTTS) is a global leader in engineering and technology services. A listed subsidiary of Larsen & Toubro (L&T), we offer design, development, testing, and sustenance services across products and processes."
+      },
+      {
+        "page": 3,
+        "quote": "LTTS announced a multi-year membership agreement with the MIT Media Lab to collaborate on AI-led innovations in its Mobility, Sustainability and Tech segments"
+      },
+      {
+        "page": 3,
+        "quote": "At the end of Q2 FY26, LTTS’ employee strength stood at 23,678."
+      },
+      {
+        "page": 3,
+        "quote": "over 23,670 employees across 23 global design centers"
+      },
+      {
+        "page": 3,
+        "quote": "30 global sales offices"
+      },
+      {
+        "page": 3,
+        "quote": "105 innovation labs"
+      },
+      {
+        "page": 7,
+        "quote": "The Sustainability segment grew 3.0% sequentially and 12.6% annually and now has a USD 50 Mn account on an annual run-rate basis."
+      },
+      {
+        "page": 7,
+        "quote": "we expect both revenue and EBIT margins to see an improvement in H2 compared to H1 of FY26."
+      },
+      {
+        "page": 7,
+        "quote": "We aspire for a double-digit growth in FY26 and reiterate our medium-term outlook of USD 2 Bn revenue."
+      },
+      {
+        "page": 7,
+        "quote": "With an increased order book and a sharp focus on resilient and profitable growth, we expect both revenue and EBIT margins to see an improvement in H2 compared to H1 of FY26. We aspire for a double-digit growth in FY26 and reiterate our medium-term outlook of USD 2 Bn revenue."
+      },
+      {
+        "page": 8,
+        "quote": "LTTS signed a $100 million multi-year agreement in its Sustainability segment with a U.S.-based industrial equipment manufacturer operating in the semiconductor value chain"
+      },
+      {
+        "page": 8,
+        "quote": "In the Tech segment, LTTS was awarded a ~$60 million multi-year program, by a U.S. based provider of wireless telecommunications services"
+      },
+      {
+        "page": 9,
+        "quote": "Revenue 25,729 28,660 29,795 4.0% 15.8%"
+      },
+      {
+        "page": 9,
+        "quote": "Cost of sales 18,192 20,625 21,462"
+      },
+      {
+        "page": 9,
+        "quote": "Gross Profit 7,537 8,035 8,333 3.7% 10.6%"
+      },
+      {
+        "page": 9,
+        "quote": "Selling, General & Administration Expenses 2,877 3,411 3,425"
+      },
+      {
+        "page": 9,
+        "quote": "EBITDA 4,660 4,624 4,908 6.1% 5.3%"
+      },
+      {
+        "page": 9,
+        "quote": "Depreciation & Amortisation 783 811 926"
+      },
+      {
+        "page": 9,
+        "quote": "EBIT 3,877 3,813 3,982 4.4% 2.7%"
+      },
+      {
+        "page": 9,
+        "quote": "Other Income, net 531 512 498"
+      },
+      {
+        "page": 9,
+        "quote": "Income tax expense 1,208 1,164 1,188"
+      },
+      {
+        "page": 9,
+        "quote": "Minority Interest 4 4 5"
+      },
+      {
+        "page": 9,
+        "quote": "Net Income 3,196 3,157 3,287 4.1% 2.8%"
+      },
+      {
+        "page": 9,
+        "quote": "Gross Margin 29.3% 28.0% 28.0%"
+      },
+      {
+        "page": 9,
+        "quote": "EBITDA Margin 18.1% 16.1% 16.5%"
+      },
+      {
+        "page": 9,
+        "quote": "EBIT Margin 15.1% 13.3% 13.4%"
+      },
+      {
+        "page": 9,
+        "quote": "Net Income Margin 12.4% 11.0% 11.0%"
+      },
+      {
+        "page": 9,
+        "quote": "Basic 30.20 29.81 31.02"
+      },
+      {
+        "page": 9,
+        "quote": "Diluted 30.12 29.77 30.97"
+      },
+      {
+        "page": 11,
+        "quote": "Property and equipment | 9,063 | 9,362"
+      },
+      {
+        "page": 11,
+        "quote": "Intangible Assets and Goodwill | 13,667 | 13,673"
+      },
+      {
+        "page": 11,
+        "quote": "Accounts Receivable | 29,165 | 31,987"
+      },
+      {
+        "page": 11,
+        "quote": "Unbilled Revenues | 5,953 | 6,838"
+      },
+      {
+        "page": 11,
+        "quote": "Investments | 13,096 | 13,846"
+      },
+      {
+        "page": 11,
+        "quote": "Cash and Cash equivalents | 15,658 | 14,918"
+      },
+      {
+        "page": 11,
+        "quote": "Other current assets | 4,262 | 3,841"
+      },
+      {
+        "page": 11,
+        "quote": "Other non-current assets | 5,571 | 2,851"
+      },
+      {
+        "page": 11,
+        "quote": "Total Assets | 96,435 | 97,316"
+      },
+      {
+        "page": 11,
+        "quote": "Shareholders' Funds | 60,800 | 61,890"
+      },
+      {
+        "page": 11,
+        "quote": "Other current liabilities | 29,900 | 28,670"
+      },
+      {
+        "page": 11,
+        "quote": "Other non-current liabilities | 5,560 | 6,572"
+      },
+      {
+        "page": 11,
+        "quote": "Minority Interest | 175 | 184"
+      },
+      {
+        "page": 11,
+        "quote": "Total Liabilities | 96,435 | 97,316"
+      },
+      {
+        "page": 11,
+        "quote": "Net cash provided by operating activities | 14,811 | 4,809"
+      },
+      {
+        "page": 11,
+        "quote": "Less: Capex | 1,018 | 643"
+      },
+      {
+        "page": 11,
+        "quote": "Free Cash Flow | 13,793 | 4,166"
+      },
+      {
+        "page": 11,
+        "quote": "Free Cash Flow to Net Income (%) | 109% | 65%"
+      },
+      {
+        "page": 12,
+        "quote": "Mobility | 35.5% | 29.6% | 29.0% | -1.4% | -10.1%"
+      },
+      {
+        "page": 12,
+        "quote": "Sustainability | 30.8% | 30.8% | 31.6% | 3.0% | 12.6%"
+      },
+      {
+        "page": 12,
+        "quote": "Tech | 33.7% | 39.6% | 39.4% | 0.1% | 28.6%"
+      },
+      {
+        "page": 12,
+        "quote": "North America | 52.5% | 54.1% | 54.7% | 1.7% | 14.4%"
+      },
+      {
+        "page": 12,
+        "quote": "Europe | 18.4% | 17.1% | 17.3% | 1.5% | 3.3%"
+      },
+      {
+        "page": 12,
+        "quote": "India | 21.9% | 21.0% | 21.5% | 3.0% | 8.1%"
+      },
+      {
+        "page": 12,
+        "quote": "Rest of the World | 7.2% | 7.8% | 6.5% | -15.9% | -0.4%"
+      },
+      {
+        "page": 16,
+        "quote": "the patents portfolio of L&T Technology Services stood at 1,601"
+      }
+    ]
+  },
+  "trace": {
+    "startedAt": "2026-08-08T05:51:02.696Z",
+    "finishedAt": "2026-08-08T05:53:29.812Z",
+    "demoMode": false,
+    "provider": "Google Gemini",
+    "model": "gemini-3.6-flash",
+    "thinkingLevel": "HIGH",
+    "sourceFile": "LTTS Q2FY26.pdf",
+    "sourcePages": 17,
+    "sourceCharacters": 25065,
+    "passes": [
+      {
+        "pass": "profile",
+        "model": "gemini-3.6-flash",
+        "durationMs": 22661,
+        "promptTokens": 9158,
+        "outputTokens": 1899,
+        "thoughtTokens": 4716,
+        "cachedTokens": 6681,
+        "finishReason": "STOP",
+        "attempts": 1
+      },
+      {
+        "pass": "quarterly",
+        "model": "gemini-3.6-flash",
+        "durationMs": 35054,
+        "promptTokens": 9116,
+        "outputTokens": 3056,
+        "thoughtTokens": 8182,
+        "cachedTokens": 6784,
+        "finishReason": "STOP",
+        "attempts": 1
+      },
+      {
+        "pass": "statements",
+        "model": "gemini-3.6-flash",
+        "durationMs": 68780,
+        "promptTokens": 9118,
+        "outputTokens": 9688,
+        "thoughtTokens": 11600,
+        "cachedTokens": 6522,
+        "finishReason": "STOP",
+        "attempts": 1
+      },
+      {
+        "pass": "charts",
+        "model": "gemini-3.6-flash",
+        "durationMs": 20600,
+        "promptTokens": 9155,
+        "outputTokens": 1850,
+        "thoughtTokens": 4310,
+        "cachedTokens": 0,
+        "finishReason": "STOP",
+        "attempts": 1
+      }
+    ],
+    "totals": {
+      "promptTokens": 36547,
+      "outputTokens": 16493,
+      "thoughtTokens": 28808,
+      "cachedTokens": 19987,
+      "durationMs": 147115
+    },
+    "reconciliation": {
+      "valuesAccepted": 191,
+      "valuesRejected": 0,
+      "quotesRepaired": 0,
+      "pagesCorrected": 0,
+      "rejections": []
+    },
+    "output": {
+      "highlights": 5,
+      "keyHighlights": 5,
+      "quarterlyRows": 17,
+      "profitAndLossRows": 13,
+      "balanceSheetRows": 14,
+      "cashflowRows": 3,
+      "ratioRows": 5,
+      "segmentRows": 7,
+      "shareholdingRows": 0,
+      "companyDataRows": 8,
+      "charts": 4,
+      "chartPoints": 21,
+      "sources": 64
+    }
+  }
+}
